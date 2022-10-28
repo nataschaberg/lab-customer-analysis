@@ -50,3 +50,20 @@ For this lab, we will be using the `marketing_customer_analysis.csv` file that y
 5. Check and deal with `NaN` values.
 6. Datetime format - Extract the months from the dataset and store in a separate column. Then filter the data to show only the information for the first quarter , ie. January, February and March. _Hint_: If data from March does not exist, consider only January and February.
 7. BONUS: Put all the previously mentioned data transformations into a function.
+
+# Lab | Customer Analysis Round 3
+
+For this lab, we still keep using the `marketing_customer_analysis.csv` file. You can find the file in the `files_for_lab` folder.
+
+### Get the data
+
+- Use the same jupyter file from the last lab, `Customer Analysis Round 3`
+
+### EDA (Exploratory Data Analysis) - Complete the following tasks to explore the data:
+
+- Show DataFrame info.
+- Describe DataFrame.
+- Show a plot of the total number of responses.
+- Show a plot of the response rate by the sales channel.
+- Show a plot of the response rate by the total claim amount.
+- Show a plot of the response rate by income.
