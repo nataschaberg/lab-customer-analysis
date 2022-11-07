@@ -86,3 +86,26 @@ Use the jupyter file from the last lab (Customer Analysis Round 3)
   - Do the distributions for different numerical variables look like a normal distribution 
 - For the numerical variables, check the multicollinearity between the features. Please note that we will use the column `total_claim_amount` later as the target variable. 
 - Drop one of the two features that show a high correlation between them (greater than 0.9). Write code for both the correlation matrix and for seaborn heatmap. If there is no pair of features that have a high correlation, then do not drop any features
+
+# Lab | Customer Analysis Round 5
+
+For this lab, we still keep using the `marketing_customer_analysis.csv` file that you can find in the `files_for_lab` folder.
+
+### Get the data
+
+We are using the `marketing_customer_analysis.csv` file.
+
+### Dealing with the data
+
+Already done in the round 2.
+
+### Explore the data
+
+Done in the round 3.
+
+### Processing Data
+
+(_Further processing..._)
+
+- X-y split.
+- Normalize (numerical).
